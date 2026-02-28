@@ -73,3 +73,16 @@ job_city
 profile_image
 
 my_file
+
+# 🔍 Validation Implemented
+📌 Pincode Validation
+
+Must be exactly 6 digits.
+
+📌 Mobile Number Validation
+
+Must be exactly 10 digits.
+
+Only numeric values allowed.
+
+Implemented using Django RegexValidator.
