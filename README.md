@@ -109,3 +109,46 @@ Implemented using Django RegexValidator.
 - Ahmedabad
 
 - Kolkata
+
+
+# 📦 Installation & Setup
+# 1️⃣ Clone the repository
+      git clone https://github.com/your-username/your-repo-name.git
+      cd your-repo-name
+# 2️⃣ Create Virtual Environment
+     python -m venv env
+     env\Scripts\activate   # Windows
+# 3️⃣ Install Dependencies
+     pip install django
+# 4️⃣ Run Migrations
+    python manage.py makemigrations
+    python manage.py migrate
+# 5️⃣ Run Server
+     python manage.py runserver
+
+# Visit:
+
+    http://127.0.0.1:8000/
+    
+
+# 📌 Future Improvements
+
+🔹 Store Multiple Job Cities properly using ManyToManyField
+
+🔹 Add Login & Authentication
+
+🔹 Add Pagination
+
+🔹 Add Search & Filter Feature
+
+🔹 Deploy on PythonAnywhere / Render
+
+# 👨‍💻 Author
+
+Vipin Yadav
+Aspiring Software Engineer 🚀
+Open to opportunities 💼
+
+# 📄 License
+
+This project is open-source and free to use.
