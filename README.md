@@ -58,21 +58,21 @@ Profile Model Fields:
 
 - locality
 
-city
+- city
 
-pin (6-digit validation)
+- pin (6-digit validation)
 
-state (Dropdown choices)
+- state (Dropdown choices)
 
-mobile (Regex validated – 10 digits)
+- mobile (Regex validated – 10 digits)
 
-email
+- email
 
-job_city
+- job_city
 
-profile_image
+- profile_image
 
-my_file
+- my_file
 
 # 🔍 Validation Implemented
 📌 Pincode Validation
