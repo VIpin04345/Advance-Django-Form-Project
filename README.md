@@ -24,3 +24,11 @@ A simple and clean Django-based Student/Candidate Registration System that allow
 ✅ Candidate Detail Page
 
 ✅ Clean Bootstrap UI
+
+# 🛠️ Tech Stack
+
+Backend: Django
+
+Frontend: HTML, Bootstrap,javascript
+
+Database: SQLite (Default Django DB)
