@@ -45,3 +45,31 @@ student/
 │   └── student/
 │       ├── home.html
 │       └── candidate.html
+
+
+# 🧠 Model Overview
+Profile Model Fields:
+
+name
+
+dob
+
+gender
+
+locality
+
+city
+
+pin (6-digit validation)
+
+state (Dropdown choices)
+
+mobile (Regex validated – 10 digits)
+
+email
+
+job_city
+
+profile_image
+
+my_file
