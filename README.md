@@ -50,13 +50,13 @@ student/
 # 🧠 Model Overview
 Profile Model Fields:
 
-name
+- name
 
-dob
+- dob
 
-gender
+- gender
 
-locality
+- locality
 
 city
 
