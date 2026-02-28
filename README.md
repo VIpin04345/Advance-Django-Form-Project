@@ -86,3 +86,26 @@ Must be exactly 10 digits.
 Only numeric values allowed.
 
 Implemented using Django RegexValidator.
+
+
+# 🌆 Job Cities Included
+
+- Bengaluru
+
+- Mumbai
+
+- Hyderabad
+
+- Pune
+
+- Chennai
+
+- Delhi
+
+- Noida
+
+- Gurugram
+
+- Ahmedabad
+
+- Kolkata
