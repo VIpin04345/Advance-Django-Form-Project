@@ -32,3 +32,16 @@ Backend: Django
 Frontend: HTML, Bootstrap,javascript
 
 Database: SQLite (Default Django DB)
+
+
+# 📂 Project Structure
+student/
+│
+├── models.py
+├── forms.py
+├── views.py
+├── urls.py
+├── templates/
+│   └── student/
+│       ├── home.html
+│       └── candidate.html
