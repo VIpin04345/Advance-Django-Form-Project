@@ -47,6 +47,7 @@ student/
 │       └── candidate.html
 
 
+
 # 🧠 Model Overview
 Profile Model Fields:
 
