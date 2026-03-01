@@ -3,7 +3,7 @@
 A simple and clean Django-based Student/Candidate Registration System that allows users to register their details, upload profile images and documents, and view candidate details.
 
 
-# 🚀 Features
+# 🚀 Features:
 
 ✅ Student Registration Form (ModelForm)
 
