@@ -132,7 +132,7 @@ Implemented using Django RegexValidator.
     http://127.0.0.1:8000/
     
 
-# 📌 Future Improvements
+# 📌 Future Improvements:
 
 🔹 Store Multiple Job Cities properly using ManyToManyField
 
