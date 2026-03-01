@@ -144,10 +144,10 @@ Implemented using Django RegexValidator.
 
 🔹 Deploy on PythonAnywhere / Render
 
-# 👨‍💻 Author
+# 👨‍💻 Author:
 
 Vipin Yadav
-Aspiring Software Engineer 🚀
+Aspiring Software Engineer 🚀:
 Open to opportunities 💼
 
 # 📄 License
