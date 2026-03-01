@@ -25,7 +25,7 @@ A simple and clean Django-based Student/Candidate Registration System that allow
 
 ✅ Clean Bootstrap UI
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack:
 
 Backend: Django
 
