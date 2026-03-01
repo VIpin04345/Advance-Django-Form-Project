@@ -75,7 +75,7 @@ Profile Model Fields:
 
 - my_file
 
-# 🔍 Validation Implemented
+# 🔍 Validation Implemented:
 📌 Pincode Validation
 
 Must be exactly 6 digits.
@@ -89,7 +89,7 @@ Only numeric values allowed.
 Implemented using Django RegexValidator.
 
 
-# 🌆 Job Cities Included
+# 🌆 Job Cities Included:
 
 - Bengaluru
 
@@ -112,7 +112,7 @@ Implemented using Django RegexValidator.
 - Kolkata
 
 
-# 📦 Installation & Setup
+# 📦 Installation & Setup:
 # 1️⃣ Clone the repository
       git clone https://github.com/your-username/your-repo-name.git
       cd your-repo-name
