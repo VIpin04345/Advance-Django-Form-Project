@@ -48,7 +48,7 @@ student/
 
 
 
-# 🧠 Model Overview
+# 🧠 Model Overview:
 Profile Model Fields:
 
 - name
