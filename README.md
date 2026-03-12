@@ -150,7 +150,7 @@ Implemented using Django RegexValidator.
 
 Vipin Yadav
 Aspiring Software Engineer 🚀:
-Open to opportunities 💼
+Open to opportunities 💼 
 
 # 📄 License
 
