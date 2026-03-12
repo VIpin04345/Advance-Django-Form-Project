@@ -111,6 +111,8 @@ Implemented using Django RegexValidator.
 
 - Kolkata
 
+- ETC
+
 
 # 📦 Installation & Setup:
 # 1️⃣ Clone the repository
